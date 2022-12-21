@@ -1,6 +1,6 @@
 import styles from './App.module.scss'
 
-function App() {
+const App = () => {
    return (
       <div className={styles.app}>
          <p>Lato</p>
